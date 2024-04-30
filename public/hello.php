@@ -9,5 +9,8 @@
 </head>
 <body>
     <!-- この領域(bodyタグ内)に処理内容を入れてください -->
+    <p><?php echo "Hello,PHP!!!";?></p>
+    <?php echo "<p>Hello,PHP!!!</p>";?>
+    <p>0J04026山田宗平</p>
 </body>
 </html>
